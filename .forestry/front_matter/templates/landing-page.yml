@@ -7,13 +7,13 @@ fields:
   label: Title
   type: text
   hidden: false
-  default: ''
+  default: Htmlabs
   config:
     required: true
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: ''
 - type: text
   name: sub_heading
   label: Hero Sub heading
